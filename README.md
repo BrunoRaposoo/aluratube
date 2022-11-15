@@ -6,6 +6,7 @@ Projeto construído no evento de imersão react da Alura
 
 ## Tecnologias
 
+-JavaScript
 -NextJs
 -React
 -Supabase
